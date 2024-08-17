@@ -1,0 +1,18 @@
+.red {
+  fill: red;
+}
+.primary-stroke {
+  stroke: url(#green) #63a313;
+}
+.second-stroke {
+  stroke: url(#yellow) #edc022;
+}
+.third-stroke {
+  stroke: url(#red) #cd4641;
+}
+
+
+
+.element {
+box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.1), -10px -10px 10px white;
+}
